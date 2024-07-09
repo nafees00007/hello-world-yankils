@@ -4,9 +4,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>My India</title>
+    <title>Shahrukh Khan</title>
 </head>
 <body>
-    <h1><strong>.......................</strong></h1>
+    <h1>Shahrukh Khan</h1>
+    <img src="images/shahrukh.jpg" alt="Shahrukh Khan">
 </body>
 </html>
