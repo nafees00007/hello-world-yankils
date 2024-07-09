@@ -7,6 +7,6 @@
     <title>My India</title>
 </head>
 <body>
-    <h1><strong>I LOVE MY INDIA</strong></h1>
+    <h1><strong>.......................</strong></h1>
 </body>
 </html>
