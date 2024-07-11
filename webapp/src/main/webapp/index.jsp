@@ -5,6 +5,6 @@
     <title>My JSP Page</title>
 </head>
 <body>
-    <h1>my first jenkins job hosted on tomcat vm !!!!!!!</h1>
+    <h1>..................................</h1>
 </body>
 </html>
