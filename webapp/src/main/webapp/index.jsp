@@ -5,6 +5,6 @@
     <title>My JSP Page</title>
 </head>
 <body>
-    <h1>My Dad my Life!!!</h1>
+    <h1>Deploy on tomcat server</h1>
 </body>
 </html>
